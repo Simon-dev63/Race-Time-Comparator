@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Built%20With-Python%20%7C%20Tkinter-blue)
 
 ## 📖 Overview
-The **Global Race Comparator** is a desktop GUI application designed for runners of all ages (10-50). By inputting your age, sex, and race time, the tool generates a statistical frequency distribution (bell curve) simulating the international pool of runners for your specific demographic.
+The **Race Time Comparator** is a desktop GUI application designed for runners of all ages (10-50). By inputting your age, sex, and race time, the tool generates a statistical frequency distribution (bell curve) simulating the international pool of runners for your specific demographic.
 
 It visualizes exactly where you stand in the pack—whether you are in the top percentile or the middle of the curve.
 
