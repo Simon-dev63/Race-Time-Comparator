@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/24676551/README.md)
 # 🏃 Race Time Comparator
 
-![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/Global-Race-Comparator/total)
+![Downloads](https://img.shields.io/github/downloads/Simon-dev63/Race-Time-Comparator/total)
 
 **An open-source tool for Track and Cross-Country runners to benchmark their performance against the international pool.**
 
